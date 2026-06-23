@@ -9,16 +9,19 @@
 </div>
 
 ---
-
 ## ⚡ About Me
 
-```txt
-Name      : Zakariae
-Role      : Full-Stack Developer
-Location  : Morocco
-Focus     : Web Applications
-Learning  : Advanced Backend Systems
-```
+<p align="center">
+<img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-white?style=for-the-badge&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Country-Morocco-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Web%20Applications-white?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-Backend%20Systems-black?style=for-the-badge"/>
+</p>
+
+---
 
 ## 🛠 Stack
 
