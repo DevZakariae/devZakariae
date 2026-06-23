@@ -10,6 +10,7 @@
 
 ---
 ## ⚡ About Me
+- I'm Zakariae,Full-Stack Developer from Morocco with a passion for creating modern, scalable, and user-friendly web applications. Focused on clean code, performance, and continuous learning. 🚀
 
 <p align="center">
 <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-white?style=for-the-badge&logo=github&logoColor=black"/>
