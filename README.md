@@ -54,12 +54,11 @@ Learning  : Advanced Backend Systems
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DevZakariae&theme=onestar&no-frame=true&no-bg=true&column=4" />
-</p>
-
+- Beat Marketplace Platform
+- Portfolio Website
+- Discord Bot Dashboard
 ---
 
 ## 👁 Profile Views
