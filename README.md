@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚫ DEVZAKARIAE ⚪
+# ⚫ ZAROUAL ZAKARIAE ⚪
 
 ### Full-Stack Developer
 
