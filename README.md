@@ -1,31 +1,29 @@
-<div align="center">
-
 # 👋 Hi, I'm Zakariae
 
 ### Full-Stack Developer
 
-Building modern web applications with clean code, scalable architecture, and great user experiences.
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;HTML+%7C+CSS+%7C+JavaScript;PHP+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;PHP+Developer;Node.js+Developer;MongoDB+%26+MySQL;Building+Modern+Web+Applications" />
+</p>
 
 ---
 
-## 💼 Professional Summary
+## 🚀 About Me
 
-Passionate Full-Stack Developer focused on building fast, responsive, and scalable web applications.
-
-I enjoy transforming ideas into real products through modern development practices and continuous learning.
+- 💻 Full-Stack Developer
+- 🌐 Building Web Applications
+- 🎨 UI/UX Enthusiast
+- ⚡ Clean Code Advocate
+- 📚 Continuous Learner
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Backend
@@ -34,13 +32,13 @@ I enjoy transforming ideas into real products through modern development practic
 <img src="https://skillicons.dev/icons?i=php,nodejs,mongodb,mysql" />
 </p>
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,php" />
+<img src="https://skillicons.dev/icons?i=python,javascript,php" />
 </p>
 
-### Development Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -48,68 +46,53 @@ I enjoy transforming ideas into real products through modern development practic
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevZakariae&show_icons=true&rank_icon=github&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZakariae&layout=compact&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DevZakariae&show_icons=true&rank_icon=github&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevZakariae&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=DevZakariae&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DevZakariae&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevZakariae&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevZakariae&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🏆 GitHub Trophies
 
-- Full-Stack Web Development
-- Backend APIs
-- Database Design
-- Performance Optimization
-- Modern User Interfaces
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=DevZakariae&theme=algolia&no-frame=true&column=4" />
+</p>
 
 ---
 
-## 📌 Featured Technologies
+## 👀 Profile Views
 
-```txt
-HTML5
-CSS3
-JavaScript
-PHP
-Node.js
-MongoDB
-MySQL
-Python
-Git
-GitHub
-VS Code
-```
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DevZakariae&style=for-the-badge" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Contact
 
 - GitHub: https://github.com/DevZakariae
 
 ---
 
-<div align="center">
-
-### "Code. Learn. Build. Repeat."
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
+</p>
