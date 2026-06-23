@@ -70,15 +70,6 @@ Learning  : Advanced Backend Systems
 
 ---
 
-## 🎯 Current Goals
-
-- Build production-ready applications
-- Master backend development
-- Create scalable systems
-- Learn cloud technologies
-
----
-
 ## 📫 Contact
 
 GitHub: <a href="https://github.com/DevZakariae">github.com/DevZakariae</a>
