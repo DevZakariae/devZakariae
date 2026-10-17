@@ -50,26 +50,11 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevZakariae&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 - Beat Marketplace Platform
 - Portfolio Website
 - Discord Bot Dashboard
----
-
-## 👁 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=DevZakariae&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
-</p>
 
 ---
 
